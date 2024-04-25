@@ -1,3 +1,5 @@
 node_modules/
 .env
-
+frontend/weatherfront/package-lock.json
+frontend/weatherfront/package.json
+frontend/weatherfront/.gitignore
