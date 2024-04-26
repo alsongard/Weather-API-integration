@@ -20,6 +20,7 @@ function UserCapture(){
         <p>The application will display the weather conditions of a place</p>
         <p>Enter the location or postal code of the region you wish to view </p>
         <input type="alphanumeric" placeholder="Enter location...."></input>
+        <input type="submit"  onclick="function">Submit</input>
     </section>
     )
 }
